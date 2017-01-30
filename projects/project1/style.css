@@ -1,0 +1,43 @@
+body{
+    font-size: 50px;
+    color: oldlace;
+    text-align: center;
+    width: 100%;
+    background-size: cover;
+    background-image: url("unity_super_mario_bros.png");
+}
+
+
+.header{
+    color: black;
+    font-size: 40;
+    background-color: orange;
+    text-align: center;
+}
+
+
+footer{
+    text-decoration: underline;
+    color: white;
+    background-color: black;
+    cursor: pointer;
+    text-align: center;
+font-size: 35;
+    width: 100%;
+
+    }
+
+
+img{
+    margin-top: 25px;
+    height: 250px;
+}
+
+.container-fluid {
+    padding-left: 0px !important;
+    padding-right: 0px ! important;
+    overflow-x: hidden;
+}
+div{
+    padding-bottom: 2px;
+}

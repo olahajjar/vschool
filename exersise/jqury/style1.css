@@ -1,0 +1,13 @@
+body {
+    background-color: crimson ;
+    text-align: center;
+}
+h1 {
+    font-size: 150 px;
+    color: black;
+    text-align: center;
+}
+p{
+    font-size: 100 px;
+    color: darkcyan;
+}
